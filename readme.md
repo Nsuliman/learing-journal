@@ -2,8 +2,8 @@
 New skill 😉
 My first web page on github 
 
-My name is Nawal Suliman and 31 years old , from jordan,tafila, gradusted from JUST in computer engineering 👏
-
+The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 , for me i am trying to learn from anyone have something interstead to lear coz i will maybe use it during my future life 
+😁
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nsuliman/learing-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
