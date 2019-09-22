@@ -1,6 +1,6 @@
-# Github 
+# The growth mindset  
 
-![Image](https://images.template.net/wp-content/uploads/2016/04/27043339/Nature-Wallpaper1.jpg)
+![Image](http://static1.squarespace.com/static/5a46856f6f4ca37caf2bb272/5a49151271c10bd7b3310819/5a501f8a71c10b67038cfe78/1515201135072/Growth-mindset-heads.jpg?format=1500w)
 
 ## The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 .
 
