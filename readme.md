@@ -2,6 +2,8 @@
 New skill 😉
 My first web page on github 
 
+My name is Nawal Suliman and 31 years old , from jordan,tafila, gradusted from JUST in computer engineering 👏
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nsuliman/learing-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
