@@ -1,3 +1,7 @@
+
+New skill 😉
+My first web page on github 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nsuliman/learing-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
