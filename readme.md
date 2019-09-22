@@ -1,9 +1,18 @@
+# Github 
 
-New skill 😉
-My first web page on github 
+![Image](C:\Users\std4\Desktop)
 
-The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 , for me i am trying to learn from anyone have something interstead to learn 😉by using three words , My Dad will be porud of me , i can do everything unless no one done it before , there's a hope 
+## The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 .
+
+### for me the growth mindset means : 
+1. My Dad will be porud of me .
+2. I can do everything unless no one done it before .
+3. there's a hope 
 😁
+
+[Link](https://www.github.com) 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nsuliman/learing-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
