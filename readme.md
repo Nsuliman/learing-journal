@@ -2,7 +2,7 @@
 New skill 😉
 My first web page on github 
 
-The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 , for me i am trying to learn from anyone have something interstead to lear coz i will maybe use it during my future life 
+The growth mindset people they didn't care about the negative people with negatiive energy who are tired to push you down so, try to be postive as most as you can  👏 , for me i am trying to learn from anyone have something interstead to learn 😉by using three words , My Dad will be porud of me , i can do everything unless no one done it before , there's a hope 
 😁
 ## Welcome to GitHub Pages
 
