@@ -1,8 +1,8 @@
-# Learning *Markdown*
+# Learning *Terminal*
 
-![Image](https://www.washingtonpost.com/resizer/9dVbpamVQAEUVYeU5-eE6fgNcHc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NAL3QFGVREI6TFQQ7NLMKURODQ.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/DEC_VT100_terminal_transparent.png)
 
-## Markdown is one of the newest tools to create web pages and blogs to be interactive easily with the world surrounded you . 
+## A computer terminal is an electronic or electromechanical hardware device that is used for entering data into, and displaying or printing data from, a computer or a computing system. The teletype was an example of an early day hardcopy terminal, and predated the use of a computer screen by decades. . 
 
 ### “Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML) .
 
