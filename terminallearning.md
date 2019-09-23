@@ -9,13 +9,4 @@
 ### An IDE has complementing features meant to help web developers accomplish tasks with higher productivity.
 
 
-**Examples**
-
-1. First Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
-
-2. Second  Example ![Image] (https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa8704286304a71cca6b/file-3emB40aTRS.png)
-
-3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
-
-
 ### To know more about that , please click on the next link ---> [The Text editor VS coding editor Website ](https://jaxenter.com/ides-vs-text-editor-148936.html)
