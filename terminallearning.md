@@ -4,7 +4,9 @@
 
 ## A computer terminal is an electronic or electromechanical hardware device that is used for entering data into, and displaying or printing data from, a computer or a computing system. The teletype was an example of an early day hardcopy terminal, and predated the use of a computer screen by decades. . 
 
-### “Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML) .
+### In contrast, a text editor only does as its name describes and allows writing and making changes to the text. Once a programmer creates code in a text editor, they can then input the content into command-line windows.
+
+### An IDE has complementing features meant to help web developers accomplish tasks with higher productivity.
 
 
 **Examples**
@@ -16,4 +18,4 @@
 3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.markdownguide.org/)
+### To know more about that , please click on the next link ---> [The Text editor VS coding editor Website ](https://jaxenter.com/ides-vs-text-editor-148936.html)
