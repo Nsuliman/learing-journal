@@ -4,12 +4,13 @@
 
 ## GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project 
 
+![Image](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-** The main points **
+**The main points**
 
 1. how to download the git and run it by using the terminal and create new copies or snapshot to make any changes on it . 
 
-2. 
+2. How 
 
 3. 
 
