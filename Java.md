@@ -6,10 +6,10 @@
 
 ### The main points :
 
-1. Create basic java script .
-2.how to made a lint between *HTML* and *Java* .
-3.placing the script in the page .
-4.How to write the code . 
+#### 1. Create basic java script .
+#### 2.how to made a lint between *HTML* and *Java* .
+#### 3.placing the script in the page .
+#### 4.How to write the code . 
 
 
 
