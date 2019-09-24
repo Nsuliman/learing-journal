@@ -5,13 +5,13 @@
 ## GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project 
 
 
-**Examples**
+** The main points **
 
-1. First Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
+1. how to download the git and run it by using the terminal and create new copies or snapshot to make any changes on it . 
 
-2. Second  Example ![Image] (https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa8704286304a71cca6b/file-3emB40aTRS.png)
+2. 
 
-3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
+3. 
 
 
 ### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.github.org/) 
