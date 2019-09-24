@@ -4,19 +4,21 @@
 
 ## Java script is scripting language . 
 
-### “Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML) .
+### The main points :
+
+1. Create basic java script .
+2.how to made a lint between *HTML* and *Java* .
+3.placing the script in the page .
+4.How to write the code . 
 
 
-**Examples**
-
-1. First Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
-
-2. Second  Example ![Image] (https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa8704286304a71cca6b/file-3emB40aTRS.png)
-
-3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.markdownguide.org/) 
+**Java** Features ![Image](https://static.javatpoint.com/images/core/java-features.png)
+
+
+
+### To know more about the Java and download it, please click on the next link ---> [Java Website ]https://www.java.com) 
  
 
 
