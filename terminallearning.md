@@ -27,4 +27,4 @@ mount /mnt/zip:Mount zip disk on directory /mnt/zip
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/78/Appleterminal2.png)
 
 ### To know more about that , please click on the next link ---> [The Text editor VS coding editor Website ](https://jaxenter.com/ides-vs-text-editor-148936.html) 
-### To know more about that , please click on the next link ---> [The Text editor VS coding editor Website ]( https://ccrma.stanford.edu/guides/planetccrma/terminal.html)
+### To know more about that , please click on the next link ---> [The Teminal ]( https://ccrma.stanford.edu/guides/planetccrma/terminal.html)
