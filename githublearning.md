@@ -17,5 +17,5 @@
 3. How to know To import an existing project or directory into Git. 
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.github.org/) 
+### To know more about the markdown , please click on the next link ---> [Examples about git commamds ](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
  
