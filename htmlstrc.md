@@ -8,8 +8,11 @@
 ## HTML5 ALLOW YOU TO DIVIDE UP THE PARTS OF A PAGE AS BELOW : 
 
 ![Image](https://mobile.developer.com/imagesvr_ce/3977/Figure01.png)
+<<<<<<< HEAD
 
 ### “Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-wlain text format, then convert it to structurally valid XHTML (or HTML) .
+=======
+>>>>>>> 10365444393ed5ec4dbc6fb78fb4c050d6c064bd
 
 
 **Examples**
