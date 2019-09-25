@@ -1,10 +1,13 @@
-# Structure web pages with HTML
+# Structure web pages with HTML / 5 
 
-![Image](https://www.washingtonpost.com/resizer/9dVbpamVQAEUVYeU5-eE6fgNcHc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NAL3QFGVREI6TFQQ7NLMKURODQ.jpg)
 
-## Markdown is one of the newest tools to create web pages and blogs to be interactive easily with the world surrounded you . 
+# *HTML5* is introducting a new set of elements that help define the structure of a page .
 
-### “Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML) .
+![Image](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/03/difference-between-html-and-html5.png)
+
+## HTML5 ALLOW YOU TO DIVIDE UP THE PARTS OF A PAGE AS BELOW : 
+
+![Image](https://mobile.developer.com/imagesvr_ce/3977/Figure01.png)
 
 
 **Examples**
