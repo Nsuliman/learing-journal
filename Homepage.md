@@ -4,7 +4,6 @@
 
 # The main three topics are :
 
-1. The growth mindset The link ---> [The growth mindset Topic](https://github.com/Nsuliman/learing-journal/blob/master/Thegrowthmindset.md)
 =======
 # 1. The growth mindset The linkkkkkkk ---> [The growth mindset Topic](https://github.com/Nsuliman/learing-journal/blob/master/Thegrowthmindset.md)
 
