@@ -11,10 +11,12 @@
 #### 3.program rules.
 #### 4.React to events.
 
+### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it as steps below : 
+* Define the goal 
+* Design the script 
+* Code each step
+
 # Expressions + Operators in **JAVAScript**
-
-### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
-
 
 *Examples* 
 ![Image](https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png)
