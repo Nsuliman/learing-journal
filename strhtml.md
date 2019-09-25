@@ -26,4 +26,4 @@
 ![Image](https://codebridgeplus.com/public/wp-content/uploads/html-semantic.jpg)
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://codebridgeplus.com/html5-semantic-elements/) 
+### To know more about HTML5 , please click on the next link ---> [The HTML5 Website ](https://codebridgeplus.com/html5-semantic-elements/) 
