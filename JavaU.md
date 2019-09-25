@@ -18,6 +18,11 @@
 
 # Expressions + Operators in **JAVAScript**
 
+
+**Experession** An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions. 
+
+
 *Examples* 
 ![Image](https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png)
 
