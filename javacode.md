@@ -18,6 +18,8 @@
 
 # Expressions + Operators in **JAVAScript**
 
+![Image](http://www.corelangs.com/js/basics/img/operators.png)
+
 
 **Experession** An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
@@ -25,6 +27,9 @@ there are two types of expressions.
 #Expression Rules :
 1.EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE 
 2.EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
+
+*Examples* 
+[Expressions](https://flaviocopes.com/javascript-expressions)
 
 **Operators** Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
 
@@ -34,5 +39,4 @@ there are two types of expressions.
 
 
 *Examples* 
-[Expressions](https://flaviocopes.com/javascript-expressions)
 [Operators](https://flaviocopes.com/javascript-operators/)
