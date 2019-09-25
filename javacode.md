@@ -6,10 +6,10 @@
 
 
 ## How JAVAScript makes web pages more interactive :
-#### 1.Access content .
-#### 2.Modify content. 
-#### 3.program rules.
-#### 4.React to events.
+* 1.Access content .
+* 2.Modify content. 
+* 3.program rules.
+* 4.React to events.
 
 ### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it as steps below : 
 * Define the goal 
@@ -19,7 +19,7 @@
 # Expressions + Operators in **JAVAScript**
 
 ![Image](http://www.corelangs.com/js/basics/img/operators.png)
-
+![Image](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/httpatomoreillycomsourceoreillyimages238846.png)
 
 **Experession** An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
