@@ -21,10 +21,9 @@
 ![Image](http://www.corelangs.com/js/basics/img/operators.png)
 ![Image](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/httpatomoreillycomsourceoreillyimages238846.png)
 
-**Experession** An expression evaluates into (results in) a single value. Broadly speaking
-there are two types of expressions. 
+**Experession** An expression evaluates into (results in) a single value. 
 
-#Expression Rules :
+# Expression Rules :
 1.EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE 
 2.EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
 
@@ -33,10 +32,23 @@ there are two types of expressions.
 
 **Operators** Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
 
-#Operators Rules :
+# Operators Rules :
 1.ARITHMETI C OPERATORS 
 2.STRING OPERATOR 
 
-
 *Examples* 
 [Operators](https://flaviocopes.com/javascript-operators/)
+
+# Functions in **JAVAScript**
+
+**Funcyion** Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).  
+
+# Function steps :
+1.Declaration A function 
+2.Calling A function  
+
+![Image](https://tutorial.techaltum.com/images/javascript-functions.jpg)
+
+
+
+
