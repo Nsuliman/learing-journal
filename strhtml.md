@@ -22,6 +22,7 @@
 * Selectioning : used to group together related elements . 
 * Linking around Block-Level : allow web page authors to place an <a> element around a block level element that contain child element . 
 
+
 ![Image](https://codebridgeplus.com/public/wp-content/uploads/html-semantic.jpg)
 
 
