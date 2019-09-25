@@ -4,15 +4,18 @@
 
 ## GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project 
 
+### How it works : 
 
-**Examples**
+![Image](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-1. First Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
+**The main points**
 
-2. Second  Example ![Image] (https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa8704286304a71cca6b/file-3emB40aTRS.png)
+1. how to download the git and run it by using the terminal and create new copies or snapshot to make any changes on it . 
 
-3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
+2. How users should immediately set the user name and email address, which will be used for every Git commit.
+
+3. How to know To import an existing project or directory into Git. 
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.markdownguide.org/) 
+### To know more about the markdown , please click on the next link ---> [Examples about git commamds ](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
  
