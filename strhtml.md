@@ -9,13 +9,20 @@
 
 ![Image](https://mobile.developer.com/imagesvr_ce/3977/Figure01.png)
 
-**Examples**
 
-1. First Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
+*The Elements*:
 
-2. Second  Example ![Image] (https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa8704286304a71cca6b/file-3emB40aTRS.png)
+* Headers & Footers :  The elements appears at the top or bootom of every page on the site and for individual or section within the page .  
+* Navigation : used to contain the major navigational blocks on the site .
+* Articls : element act such as a contianer for any section of a page that could stand alone . 
+* Asides : this element has two purpose , depending on wheather it is an article or not . 
+* Sections : group related content together and each one have its own heading . 
+* heading Groups : to group together a set of one or more <h1> through <h6> . 
+* Figures : used to contain any content that is referenced from the main flow of an article . 
+* Selectioning : used to group together related elements . 
+* Linking around Block-Level : allow web page authors to place an <a> element around a block level element that contain child element . 
 
-3.Third Example ![Image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5c0005a32c7d3a31944e848f/file-XcTza19sha.png)
+![Image](https://codebridgeplus.com/public/wp-content/uploads/html-semantic.jpg)
 
 
-### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://www.markdownguide.org/) 
+### To know more about the markdown , please click on the next link ---> [The Markdown Website ](https://codebridgeplus.com/html5-semantic-elements/) 
