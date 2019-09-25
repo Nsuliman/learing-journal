@@ -8,15 +8,26 @@
 
 #Examples : 
 * Simple web page by using CSS : 
+
+
 ![Image](https://www.dmxzone.com/downloads/images/CSS_regions_1.png)
 
+
 * Using External CSS : 
+
+
 ![Image](https://www.homeandlearn.co.uk/WD/images/chapter4/external_styles_about_code.gif)
 
-* Using internal CSS 
+
+* Using internal CSS : 
+
+
 ![Image](https://i.stack.imgur.com/K59EF.gif)
 
-* CSS selectors 
+
+* CSS selectors : 
+
+
 ![Image](https://kevinyank.com/assets/images/blog/css-selectors-redux/slide.002.png)
 
 
