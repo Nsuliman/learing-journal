@@ -27,3 +27,23 @@
 
 
 ### To know more about HTML5 , please click on the next link ---> [The HTML5 Website ](https://codebridgeplus.com/html5-semantic-elements/) 
+
+
+# *Extra Markup* : what are the main tags that fit into groups and sections 
+
+## The main Topics : 
+1. Doctypes : there are  a several HTML versions so , each page begin with a **DOCTYP** declartion to tell a browser which version of HTML the page usiing . 
+2. Comments : add comments to your code . 
+3. ID Attribute : used to uniquely identify that element from others . 
+4. Class Attribute : a lot of elemnts so to distinguish the element from each others we defined the class contain these elements . 
+5. Block : elements apperas on the start on a new line in the browser window . 
+6. Inline : elements to continue on the same line . 
+7. Grouping TEXT and Elements in a Block : allow you to group a set of elements together . 
+8. Grouping TEXT and Elements inline : contain a section of text or numbers of inlins elements . 
+9. IFRAMES : a little window that has been cut into your page . 
+
+
+## Escape Char. : There are some characters that are used on and reserved in HTML code . 
+
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTstHAQxvtbfOcb3OTtoJ1vx8zxUlUqGv4lHK7elsce9LjY-WkYg)
+
