@@ -6,7 +6,7 @@
 
 
 ## How JAVAScript makes web pages more interactive :
-1.Access content .
+#### 1.Access content .
 2.Modify content. 
 3.program rules.
 4.React to events.
