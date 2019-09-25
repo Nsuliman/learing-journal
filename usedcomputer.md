@@ -17,22 +17,34 @@
 
 ### The binary number system :  we have two digits zero or one and with these digits we can count any number . 
 
-![Image](https://slideplayer.com/slide/6809145/23/images/2/Data+Representation+How+do+computers+represent+data.jpg
-)
-
+![Image](https://slideplayer.com/slide/6809145/23/images/2/Data+Representation+How+do+computers+represent+data.jpg)
 
 
 # How Computers use *Circuits* :
 
+### the computer takes the input and proccessing its to output so, to do that and modify the input to get the asked output the computer contains a very tiney electronic components to make a circuit and every circuit takes an electrical signal and flip it *zero flip to one and vice versa* so , complicated circuits take multiple signals and combine them to give different result . 
+
+
+![Image](https://media.gettyimages.com/photos/computer-mother-board-closeup-full-frame-directly-above-picture-id116781412?s=612x612)
+
 
 # The *FOUR PARTS* of a computer : 
 
-1. CPU
-2. INPUT
-3. OUTPUT
-4. MEMORY
+1. CPU - CENTRAL PROCESSING UNIT ( calculates information )
+2. INPUT ( converts physical input to binary information )
+3. OUTPUT ( converts information to physical output )
+4. MEMORY ( store information )
+
+![Image](https://cdn4.explainthatstuff.com/how-computer-works.png)
 
 
 # How *SOFTWARE* CONTROLS *HARDWARE* :
+
+
+### when you look inside the computer you find a lot of ( circuits , chips , wires , speakers , plugs and other stuff) this is the **HARDWARE** but the thing you don't see is the **SOFTWARE** and it is all the computer's programs and codes running on it . 
+
+
+![Image](https://2.bp.blogspot.com/-KsW6iPZutyQ/Wgb1MMoV52I/AAAAAAAABF8/Fse2k0pf65U0GJzuZbyqIDwj8_ohmdCaACK4BGAYYCw/s320/software-and-hardware%2B%25281%2529.png
+)
 
 
