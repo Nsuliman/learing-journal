@@ -22,6 +22,17 @@
 **Experession** An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
 
+#Expression Rules :
+1.EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE 
+2.EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
+
+**Operators** Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
+
+#Operators Rules :
+1.ARITHMETI C OPERATORS 
+2.STRING OPERATOR 
+
 
 *Examples* 
-![Image](https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png)
+[Expressions](https://flaviocopes.com/javascript-expressions)
+[Operators](https://flaviocopes.com/javascript-operators/)
